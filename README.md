@@ -1,2 +1,26 @@
-# Welcome to Jacob/Milamber's Website
-  Feel free to bookmark this page to stay up to date with my projects!
+# Projects
+
+## In-Progress
+
+### Coding Projects
+
+### Theatre Projects
+
+## Finished
+
+### Coding Projects
+
+### Theatre Projects
+
+# About Me
+
+## Bio
+
+## Jobs
+
+## Resume
+
+# Things you should go check out
+
+
+
