@@ -1,3 +1,5 @@
+{{ site.time | date_to_string }}
+
 # Projects
 
 ## In-Progress
