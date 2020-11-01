@@ -1,10 +1,8 @@
 ---
-layout: default
-title: About
-Description: My about page
+layout: about
+title: My Life
+Description: Who am, what I do, and where I've been
 ---
-
-# About Me
 
 ## Bio
 
