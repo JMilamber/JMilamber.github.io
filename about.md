@@ -1,7 +1,7 @@
 ---
 layout: about
 title: My Life
-Description: Who am, what I do, and where I've been
+description: Who am, what I do, and where I've been
 ---
 
 ## Bio
