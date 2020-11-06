@@ -6,14 +6,14 @@ description: Coding - Theatre - Art
 
 # Projects
 
-## In-Progress
+## Coding Projects
 
-### Coding Projects
+### In-Progress
 
-### Theatre Projects
+### 90% Complete
 
-## 90% Complete
+## Theatre Projects
 
-### Coding Projects
+### In-Progress
 
-### Theatre Projects
+### 90% Complete
