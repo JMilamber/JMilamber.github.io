@@ -39,7 +39,7 @@
           <p>{{ page.description }}</p>
           <li class="fork"><a href="https://jmilamber.github.io/">Homepage</a>
           <a>|</a>
-          {% if window.location.href == "https://jmilamber.github.io/projects.html" %}
+          {% if page.title == "My Projects" %}
             <a href="https://jmilamber.github.io/about.html">About Page</a>
           {% else %}
             <a href="https://jmilamber.github.io/projects.html">Projects Page</a>
@@ -50,6 +50,15 @@
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
+        {% if page.title == "My Projects" %}
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }} {{ post.dateShort }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        {% endif %}
         {{ content }}
 
       </section>
