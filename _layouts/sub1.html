@@ -61,13 +61,30 @@
         </div>
 
         {% if page.title == "My Projects" %}
-          <ul>
-            {% for post in site.posts %}
-              <li>
-                <a href="{{ post.url }}">{{ post.title }} {{ post.dateShort }}</a>
-              </li>
-            {% endfor %}
-          </ul>
+          {% for category in site.categories %}
+            <h2>{{ category[0] }}</h2>
+            <ul>
+              {% for tag in site.tags %}
+                <h3>{{ tag[0] }}</h3>
+                <ul>
+                  {% for post in category[1] %}
+                    {% for post1 in tag[1] %}
+                      {% if post == post1 %}
+                        <li>
+                          <h4><a href="{{ post.url }}"> {{ post.dateShort }} | {{ post.title }} </a> - {{ post.description}} </h4>
+                          <details>
+                            <summary>Summary</summary>
+                            <p> {{ post.mediumDescription}} </p>
+                          </details>
+                        </li>
+                      {% else %}
+                      {% endif %}
+                    {% endfor %}
+                  {% endfor %}
+                </ul>
+              {% endfor %}
+            </ul>
+          {% endfor %}
         {% endif %}
         {{ content }}
 
