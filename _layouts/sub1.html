@@ -20,9 +20,13 @@
   <body>
       <div id="header">
         <nav>
-          <li class="fork"><a href="{{ site.github.repository_url }}">View Page On GitHub</a>
-          <a href="https://www.linkedin.com/in/jacob-stringer/">LinkedIn Profile</a>
-          </li>
+          {% if page.type %}
+            <li class="fork"><a href="https://jmilamber.github.io/projects.html">Back to Projects</a> </li>
+          {% else %}
+            <li class="fork"><a href="{{ site.github.repository_url }}">View Page On GitHub</a>
+              <a href="https://www.linkedin.com/in/jacob-stringer/">LinkedIn Profile</a>
+            </li>
+          {% endif %}
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
             <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
@@ -37,14 +41,20 @@
         <div id="title">
           <h1>{{ page.title }}</h1>
           <p>{{ page.description }}</p>
-          <li class="fork"><a href="https://jmilamber.github.io/">Homepage</a>
-          <a>|</a>
-          {% if page.title == "My Projects" %}
-            <a href="https://jmilamber.github.io/about.html">About Page</a>
-          {% else %}
-            <a href="https://jmilamber.github.io/projects.html">Projects Page</a>
-          {% endif %}
-          </li>
+          {% unless page.type %}
+            <li class="fork">
+            {% if page.title == "My Projects" %}
+              <a href="https://jmilamber.github.io/">Homepage</a>
+              <a>|</a>
+              <a href="https://jmilamber.github.io/about.html">About Page</a>
+            {% else %}
+              <a href="https://jmilamber.github.io/">Homepage</a>
+              <a>|</a>
+              <a href="https://jmilamber.github.io/projects.html">Projects Page</a>
+            {% endif %}
+            </li>
+          {% endunless %}
+
           <hr>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
