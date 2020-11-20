@@ -1,11 +1,18 @@
-Current date: {{ site.time | date_to_string }}
+#### For a list of all my projects go to my *[projects](/projects.html)* page.
 
-# Projects
+<hr style="color: green; border-top: solid 4px; width: 80%; margin-left: auto; margin-right: auto; ">   
 
-## In-Progress
+## Resume
+  <a href="/images/Resume.html" target="parent">View in New Tab</a><br>
+  <a href="/images/Resume.pdf" download>Download</a><br>
+  <div>
+    <img src="/images/Resume.jpg" style="width: 300px; height: 400px; object-fit: cover; text-align: center;">
+  </div>  
+<br>
+<hr style="color: green; border-top: solid 4px; width: 70%; margin-left: auto; margin-right: auto; ">
 
-## 90% Complete
-
-For a list of all my projects (big/small/in-progress/perpetually in-progress) go to my *[projects](/projects.html)* page.
-
-# Things you should go check out
+### Things you should go check out
+<br>
+#### [Phoenix NMR](http://phoenixnmr.com/)
+Solid State NMR Probe Building company<br>
+that I have interned/worked part-time at for several years.  

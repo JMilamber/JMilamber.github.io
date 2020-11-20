@@ -16,12 +16,15 @@
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
+
   </head>
   <body>
       <div id="header">
         <nav>
           {% if page.type %}
-            <li class="fork"><a href="https://jmilamber.github.io/projects.html">Back to Projects</a> </li>
+            <li class="fork"><a href="https://jmilamber.github.io/projects.html">Back to Projects</a>
+              <a href="https://www.linkedin.com/in/jacob-stringer/">LinkedIn Profile</a>
+            </li>
           {% else %}
             <li class="fork"><a href="{{ site.github.repository_url }}">View Page On GitHub</a>
               <a href="https://www.linkedin.com/in/jacob-stringer/">LinkedIn Profile</a>
@@ -71,10 +74,10 @@
                     {% for post1 in tag[1] %}
                       {% if post == post1 %}
                         <li>
-                          <h4><a href="{{ post.url }}"> {{ post.dateShort }} | {{ post.title }} </a> - {{ post.description}} </h4>
+                          <h4><a href="{{ post.url }}"> {{ post.dateShort }} | {{ post.title }} </a> <br>- {{ post.description}} </h4>
                           <details>
                             <summary>Summary</summary>
-                            <p> {{ post.mediumDescription}} </p>
+                            <p> Created: {{ post.created }} <br> {{ post.mediumDescription }} </p>
                           </details>
                         </li>
                       {% else %}
