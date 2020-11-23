@@ -20,7 +20,7 @@
 {"@type":"BlogPosting","url":"http://localhost:4000/coding_projects/2020/11/18/Gator_Cogitate.html","headline":"Gator Cogitate","dateModified":"2020-11-18T00:00:00-05:00","datePublished":"2020-11-18T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/coding_projects/2020/11/18/Gator_Cogitate.html"},"description":"Python program that retrieves and analyzes statistics of a GitHub Repository.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=793a2c52f2cf027027653d915821a85ea45d6123">
+    <link rel="stylesheet" href="/assets/css/style.css?v=c6a2bc5d6855c32ad02af32838ee206fa21b00c0">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="/assets/js/respond.js"></script>
     <!--[if lt IE 9]>
@@ -59,8 +59,27 @@
         </div>
 
         
-        <h3 id="github-link"><em>Github: <a href="https://github.com/GatorCogitate/cogitate_tool">(link)</a></em></h3>
-<p>Written during a Software engineering class in 2019 by the entire class, this project is a free and open source tool written in Python. It is designed to evaluate the level of contributions for members of a GitHub repository. GatorCogitate generates a score for members based on a variety of metrics.</p>
+        <h3> Github: </h3>
+<p><a href="https://github.com/GatorCogitate/cogitate_tool">(link)</a><br />
+Written during a Software engineering class in 2019 by the entire class, this
+project is a free and open source tool written in Python. It is designed to
+evaluate the level of contributions for members of a GitHub repository.
+GatorCogitate generates a score for members based on a variety of metrics.
+The user interacts with GatorCogitate through the CLI (Command Line
+Interface)</p>
+
+<p>The main portion of my work on this project was for the CLI that
+  GatorCogitate uses. The CLI uses argparse to take in arguments from the
+  command line. There are four required arguments, the rest have default values
+  and can be added if the user wishes to.</p>
+
+<p>The four required ones are:</p>
+<ol>
+    <li>link to the target github repository</li>
+    <li>github user token -to allow PyGitHub to access repo data</li>
+    <li>The repository's name including root directory if in an organization</li>
+    <li>Whether to merge extra usernames -different usernames may get logged if users commit on multiple different wifi/lan connections</li>
+</ol>
 
 
       </section>

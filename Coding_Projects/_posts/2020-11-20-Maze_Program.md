@@ -11,6 +11,14 @@ mediumDescription: Started after my first final project in my first coding class
 ---
 ### *Github: [(link)](https://github.com/JMilamber/Maze-Programs)*
 
-I wrote my first maze algorithm in fall of 2018, for a java class. It was exceedingly long and cumbersome, but very fun to use. When I started learning Python in the spring of 2019, I challenged myself to re-write my maze-program in Python. Once this was done, I decided to create a Github repo to help keep track of what I was working on. Continuing my goal of learning about mazes I decided to write a second algorithm for the program and a UI as my final project for my python class in spring of 2019.
+I wrote my first maze algorithm in fall of 2018, for a java class. It was
+exceedingly long and cumbersome, but very fun to use. When I started learning
+Python in the spring of 2019, I challenged myself to re-write my maze-program
+in Python. Once this was done, I decided to create a Github repo to help keep
+track of what I was working on. Continuing to work on the project I decided
+to write a second algorithm for the program and a UI as my final project
+for my python class in spring of 2019.
 
-Since then I have worked on the repo off and on for the past year/two years. I have plans for a test Suite, another algorithm, and an eventual complete restructuring of the program for better re-usability.
+Since then I have worked on the repo off and on for the past year/two years.
+I have plans for a test Suite, another algorithm, and an eventual complete
+restructuring of the program for better re-usability.
