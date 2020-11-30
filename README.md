@@ -16,3 +16,15 @@
 #### [Phoenix NMR](http://phoenixnmr.com/)
 Solid State NMR Probe Building company<br>
 that I have interned/worked part-time at for several years.  
+
+#### [TLC Gardens](https://tlcgardens.com/)
+Landscape Design and Build Company started<br>
+by Cheri Stringer in 2005. TLC has won many awards<br>
+over the years and is centered in Longmont, CO. They will<br>
+soon be launching TLC Gardens Mobile which is designed to allow<br>
+TLC Gardens to build beautiful landscapes all over the United States.
+
+#### [Jordan Holloway - Composer](https://www.youtube.com/channel/UCl7twm_6vSi0OavXFiMeP3Q)
+Good Friend of mine and an incredible composer,<br>
+Jordan recently put together his first Symphony which<br>
+is played by his own Dad Village Symphony Orchestra.
