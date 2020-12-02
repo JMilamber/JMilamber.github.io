@@ -3,11 +3,8 @@
 <hr style="color: green; border-top: solid 4px; width: 80%; margin-left: auto; margin-right: auto; ">   
 
 ## Resume
-  <a href="/images/Resume.html" target="parent">View in New Tab</a><br>
+  <a href="/images/Resume.html" target="parent">View</a><br>
   <a href="/images/Resume.pdf" download>Download</a><br>
-  <div>
-    <img src="/images/Resume.jpg" style="width: 300px; height: 400px; object-fit: cover; text-align: center;">
-  </div>  
 <br>
 <hr style="color: green; border-top: solid 4px; width: 70%; margin-left: auto; margin-right: auto; ">
 
