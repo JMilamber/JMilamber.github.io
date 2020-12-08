@@ -44,17 +44,17 @@
           <hr>
           <span class="credits left">Page maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+          <!--<div style ="text-align: center;">Current Date: {{ site.time | date_to_string }}</div>-->
         </div>
-        <a style ="text-align: center;">Current Date: {{ site.time | date_to_string }}</a>
-        <hr style="color: green; border-top: solid 3px; width: 40%; margin-left: auto; margin-right: auto;">
         <h2>Projects</h2>
-        <hr style="color: green; border-top: dashed 3px; width: 20%; margin-left: auto; margin-right: auto;">
+        <br>
         {% for post in site.posts %}
           {% if post.mainpage %}
              <h4><a href="{{ post.url }}">{{ post.title }} </a><h6>{{ post.description}}</h6></h4>
+             <hr style="color: green; border-top: dashed 3px; width: 20%; margin-left: auto; margin-right: auto;">
           {% endif %}
         {% endfor %}
-        <hr style="color: green; border-top: dashed 3px; width: 20%; margin-left: auto; margin-right: auto;">
+
         {{ content }}
 
       </section>
