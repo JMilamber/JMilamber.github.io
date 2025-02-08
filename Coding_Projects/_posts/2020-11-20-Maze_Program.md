@@ -19,6 +19,6 @@ track of what I was working on. Continuing to work on the project I decided
 to write a second algorithm for the program and a UI as my final project
 for my python class in spring of 2019.
 
-Since then I have worked on the repo off and on for the past year/two years.
+Since then I have worked on the repo off and on for several years.
 I have plans for a test Suite, another algorithm, and an eventual complete
 restructuring of the program for better re-usability.
