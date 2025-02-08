@@ -6,9 +6,9 @@ description: Who I am, what I do, and where I've been
 
 # Bio
 
-<ul>Hi my name is Jacob and I am currently Senior at Allegheny college with a Major in Theatre and a Minor in Computer Science. I love pretty much anything to do with games: both playing them and watching them, and it is my goal to one day be a part of building them as well. I am currently learning how to use Unity  and video-editing. My goal is to find an internship or job in game development in the next 1-2 years. </ul>
+<ul>Hi, my name is Jacob and I am a Graduate of Allegheny College with a Bachelors Degree in Theatre and a minor in Computer Science. I love pretty much anything to do with games from playing them, to watching them, to modding them, and it is my goal to one day be a part of developing them as well. I have 5 years of experience writing code in both Python and Java. Recently I have also learned a great deal of embedded C code. </ul>
 
-<ul>I have been interested in games since I was a kid, starting with the early Pokémon Games on the Gameboy/DS along with Mario Kart on the GameCube and Civilization IV on the PC. Something about those early Pokémon games always interested me and inspired me to want to make games myself. These days I am inspired by games like Horizon: Zero Dawn and Celeste. My most recent foray in game Development has been me my sister working on a fan remake of a Pokémon Mystery Dungeon game in Unity.</ul>
+<ul>I have been interested in games since I was a kid, starting with the early Pokémon Games on the Gameboy/DS along with Mario Kart on the GameCube and Civilization IV on the PC. Something about those early Pokémon games always interested me and inspired me to want to make games myself. These days I am inspired by games like Horizon: Zero Dawn and Celeste. My most recent foray in game Development has been me my sister working on a fan remake of a Pokémon Mystery Dungeon game in Unity. Long term I have devloped and released sereval minecraft mods with varying ranges of sucess.</ul>
 
 <ul>Video Games have always been a big part of my life, but up through my sophomore year of college, a lot of my time was spent playing Tennis. One of the oldest pictures my family has of me is from when I was about 4 years old, with me on a tennis court with a racquet in my hand. Though I still love playing Tennis, in my sophomore year I decided to quit the tennis team and focus on my Major (Theatre) and computer science.
 </ul>
@@ -19,7 +19,16 @@ description: Who I am, what I do, and where I've been
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Summer 2017 -- Spring 2020
   <ul>
     <li><em>Production Intern</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Summer 2017 -- Summer 2020</li>
-    <li><em>Video Editor</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Summer 2020 -- Present</li>
+    <li><em>Software and Video Developer</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Summer 2020 -- Fall 2024</li>
+    <li><em>Contract Software Developer</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2024 -- Present</li>
+  </ul>
+</ul>
+
+<ul>
+  <h3>Data Annotation -- Remote</h3>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Summer 2017 -- Spring 2020
+  <ul>
+    <li><em>Programming Related AI Training</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Fall 2024 -- Present</li>
   </ul>
 </ul>
 
