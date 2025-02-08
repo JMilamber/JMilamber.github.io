@@ -16,7 +16,7 @@ description: Who I am, what I do, and where I've been
 ## Jobs
 <ul>
   <h3>Phoenix NMR -- Loveland CO</h3>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Summer 2017 -- Spring 2020
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Summer 2017 -- Present
   <ul>
     <li><em>Production Intern</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Summer 2017 -- Summer 2020</li>
     <li><em>Software and Video Developer</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Summer 2020 -- Fall 2024</li>
@@ -26,7 +26,7 @@ description: Who I am, what I do, and where I've been
 
 <ul>
   <h3>Data Annotation -- Remote</h3>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Summer 2017 -- Spring 2020
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fall2024 -- present
   <ul>
     <li><em>Programming Related AI Training</em> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Fall 2024 -- Present</li>
   </ul>
@@ -36,10 +36,10 @@ description: Who I am, what I do, and where I've been
 ## College Club Positions
 <ul>
   <h3>Student Experimental Theatre (SET) -- Allgheny College </h3>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2018 -- Present
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2018 -- Spring 2021
   <ul>
     <li><em>House Manager</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2018 -- Spring 2019</li>
-    <li><em>Treasurer</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fall 2019 -- Present</li>
+    <li><em>Treasurer</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fall 2019 -- Spring 2021</li>
   </ul>
 </ul>
 
@@ -47,7 +47,7 @@ description: Who I am, what I do, and where I've been
   <h3>United States Institute for Theatre Technology (USITT)</h3>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Fall 2018 -- Present
   <ul>
-    <li><em>Treasurer</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2020 -- Present</li>
+    <li><em>Treasurer</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fall 2020 -- Spring 2021</li>
   </ul>
 </ul>
 
