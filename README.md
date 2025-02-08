@@ -10,7 +10,7 @@ For a list of all my projects go to my *[projects](/projects.html)* page.
 
 ## Short Bio
 
-  <ul>Hi, my name is Jacob and I am currently a senior at Allegheny College with a major in Theatre and a minor in Computer Science. I love pretty much anything to do with games: playing them, watching them, and it is my goal to one day be a part of building them as well. I am currently learning Unity and video-editing, and hope to find an Internship/Job in game development in the next 1-2 years.</ul>
+  <ul>Hi, my name is Jacob and I am a Graduate of Allegheny College with a Bachelors Degree in Theatre and a minor in Computer Science. I love pretty much anything to do with games from playing them, to watching them, to modding them, and it is my goal to one day be a part of developing them as well. I have 5 years of experience writing code in both Python and Java. Recently I have also learned a great deal of embedded C code.</ul>
 
   *[Visit my about page to learn more!](https://jmilamber.github.io/about.html)*
 
@@ -19,16 +19,16 @@ For a list of all my projects go to my *[projects](/projects.html)* page.
 #### Cool stuff that I didn't do -
 #### [Phoenix NMR](http://phoenixnmr.com/)
 Solid State NMR Probe Building company<br>
-that I have interned/worked part-time at for several years.  
+that I have interned/worked at for several years.  
 
-#### [TLC Gardens](https://tlcgardens.com/)
-Landscape Design and Build Company started<br>
-by Cheri Stringer in 2005. TLC has won many awards<br>
-over the years and is centered in Longmont, CO. They will<br>
-soon be launching TLC Gardens Mobile which is designed to allow<br>
-TLC Gardens to build beautiful landscapes all over the United States.
+#### [Gardens of Change](https://www.linkedin.com/company/gardensofchange)
+Life Coaching and Consulting business run by<br>
+Cheri Stringer. Cheri has previously won many awards<br>
+as a landscape architect and head of TLC Gardens. <br>
+Currently Cheri has just finished writing her first book <br>
+and is working on a podcast.
 
 #### [Jordan Holloway - Composer](https://www.youtube.com/channel/UCl7twm_6vSi0OavXFiMeP3Q)
 An incredible composer, Jordan <br>
-recently put together his first Symphony which<br>
-is played by his own Dad Village Symphony Orchestra.
+has put together several Symphonies which<br>
+are played by his own Dad Village Symphony Orchestra.
